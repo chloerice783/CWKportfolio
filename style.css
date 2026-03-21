@@ -13,6 +13,17 @@ header{
 
 }
 
+
+
+img{
+    width: 150px;
+    height: 150px;
+}
+
+a{
+    color: black;
+}
+
 .card{
     background-color: white;
     border: 1px solid black;
@@ -22,6 +33,7 @@ header{
     border-radius: 8px;
     max-width: 200px;
     margin: 20px auto;
+
 }
 
 
